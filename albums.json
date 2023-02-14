@@ -1,0 +1,12 @@
+{
+  "albums": [
+    {
+      "name": "Album1",
+			"tracks": ["Song1", "Song2", "Song3"]
+    },
+    {
+      "name": "Album2",
+			"tracks": ["Song4", "Song5", "Song6"]
+    }
+  ]
+}
